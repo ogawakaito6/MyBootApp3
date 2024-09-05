@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: jp.te4a.spring.boot.mybootapp3.Mybootapp3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.777 s -- in jp.te4a.spring.boot.mybootapp3.Mybootapp3ApplicationTests
