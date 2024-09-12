@@ -6,7 +6,14 @@
         <title>Index</title>
     </head>
     <body>
-        <h1>Index Page</h1>
-        <p>this is sample page for Spring Boot!</p>
     </body>
 </html>
+<body>
+    <h1>Index page</h1>
+    <p>this is sample page for Spring Boot!</p>
+    <p>${msg}</p>
+    <form method= "post" action="/post">
+        <input type ="text" name="textI">
+        <input type="submit">
+    </form>
+</body>
